@@ -6,8 +6,11 @@ Harnessing the power of AES-256 encryption and the Argon2 key derivation functio
 Features
 
   🛡 AES-256 Encryption: Industry-standard encryption ensures your secrets remain confidential.
+  
   🔑 Argon2 Key Derivation: Turn your passphrase into a robust encryption key with the award-winning Argon2 algorithm.
+  
   🗄 File-based Storage: Export and import your vault for secure backups or migration.
+  
   ⌨ Command-Line Friendly: Designed for those who love the terminal, with intuitive commands and clear feedback.
 
 Getting Started
